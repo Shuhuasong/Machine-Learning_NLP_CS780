@@ -1,0 +1,9 @@
+Instruction for run the Python code to get answer 
+
+1. Please download the three python file myPrepocessing.py , myModelTrain.py , and myAnswer into your IDE, and then add the train.txt  and add test.txt file in the same directory with these three Python file. 
+2. Edit the Configuration with following steps:
+   1) Script path: Navigate the Script path where this project is located in your computer;
+   2) Parameters:  --input train.txt
+   3) Python interpreter: please choose the newest Python version is available on your computer
+   4) Wording director: Navigate the director where the output will be there
+3. Click 'Run' on IDE, the program may spend a few seconds to run. After it finish, it will create a solution.txt with answer automatically. 
